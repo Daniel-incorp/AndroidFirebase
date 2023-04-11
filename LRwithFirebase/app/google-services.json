@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1009434642403",
+    "project_id": "lrwithfirebase",
+    "storage_bucket": "lrwithfirebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1009434642403:android:4f72632af93fd1656e02d6",
+        "android_client_info": {
+          "package_name": "com.example.lrwithfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1009434642403-he51l6sslmlq1chu33af9bi1j0cren6c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDhmCth3DF43ih5ruHfF5r9tMaKugOaXX4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1009434642403-he51l6sslmlq1chu33af9bi1j0cren6c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
